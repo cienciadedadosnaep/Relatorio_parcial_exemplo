@@ -1,0 +1,15 @@
+# Execução financeira {#financeira}
+
+<div class="capa">
+
+<div class="foto_ativ">
+![](impacto01.png)
+</div>
+
+<div class="leg_ativ">
+Representação da avaliação de impacto
+</div>
+
+</div>
+
+## Detalhamento

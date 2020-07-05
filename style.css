@@ -1,0 +1,65 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+.capa{
+  display: grid;
+  grid-template-areas:
+  "foto_ativ"
+  "leg_ativ";
+}
+
+.foto_ativ{
+  grid-area: foto_ativ;
+}
+
+.leg_ativ{
+  grid-area: leg_ativ;
+  font-size: 1vw;
+  margin: auto 1rem auto 1rem;
+}
+
+.capa_ativ{
+  display: grid;
+  align-items: center;
+  grid-template-columns: 7vw 16vw 16vw;
+  grid-template-rows: 9vw 9vw 9vw 9vw;
+  grid-template-areas:
+  "ab01 ar01 ar01"
+  "ab02 ar02 ar02"
+  "ab03 ar03 ar03"
+  "ab04 ar04 ar04";
+  grid-gap: 1rem;
+  margin-top: 1rem;
+}
+
+.ativ_resumo{
+  font-size: 1.3vw;
+  margin-top: 1vw;
+  height: 5.5vw;
+}
+
+.ativ_bullet{
+  height: 7vw;
+  margin-top: 1vw;
+}
+
+#bullet01.ativ_bullet{grid-area: ab01;}
+#bullet02.ativ_bullet{grid-area: ab02;}
+#bullet03.ativ_bullet{grid-area: ab03;}
+#bullet04.ativ_bullet{grid-area: ab04;}
+#resumo01.ativ_resumo{grid-area: ar01;}
+#resumo02.ativ_resumo{grid-area: ar02;}
+#resumo03.ativ_resumo{grid-area: ar03;}
+#resumo04.ativ_resumo{grid-area: ar04;}

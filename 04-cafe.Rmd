@@ -1,0 +1,39 @@
+# Café com Dados {#cafe}
+
+<div class="capa">
+
+<div class="foto_ativ">
+![](cafe01.png)
+</div>
+
+<div class="leg_ativ">
+Karina Menezes apresentando a cultura hackerista durante uma das sessões do Café com Dados
+</div>
+
+</div>
+
+<div class="capa_ativ">
+
+<img src="bullet01.png" id="bullet01" class="ativ_bullet">
+<div id="resumo01" class="ativ_resumo">
+**Alvo:** Introduzir professores à Ciência de Dados
+</div>
+
+<img src="bullet02.png" id="bullet02" class="ativ_bullet">
+<div id="resumo02" class="ativ_resumo">
+**Dificuldades:** Adesão dos professores, barulhos de fundo
+</div>
+
+<img src="bullet03.png" id="bullet03" class="ativ_bullet">
+<div id="resumo03" class="ativ_resumo">
+**Soluções:** Consulta da opnião dos professores
+</div>
+
+<img src="bullet04.png" id="bullet04" class="ativ_bullet">
+<div id="resumo04" class="ativ_resumo">
+**Resultados:** Ampliação do vocabulário dos professores?
+</div>
+
+</div>
+
+## Apresentando a atividade {#cafe_ativ}

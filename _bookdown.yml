@@ -1,0 +1,10 @@
+book_filename: "Relatorio_parcial_01"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: ""
+  label:
+    fig: 'Figura '
+    tab: 'Tabela '
+    eq: 'Equação '
+    exm: 'Exemplo '

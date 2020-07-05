@@ -1,0 +1,18 @@
+# Avaliação de impactos {#impactos}
+
+<div class="capa">
+
+<div class="foto_ativ">
+![](impacto01.png)
+</div>
+
+<div class="leg_ativ">
+Representação da avaliação de impacto
+</div>
+
+</div>
+
+## Notas dos estudantes
+Impactos gerais, não alocados a uma atividade específica.
+
+## Respostas de questionários

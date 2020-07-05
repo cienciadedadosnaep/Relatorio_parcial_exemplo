@@ -1,0 +1,13 @@
+--- 
+title: "Ciência de Dados na Educação Pública: Relatório 2020.1"
+author: "Time CDEP"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+# Relatório 2020.1 {-}
+
+Formatação da capa do relatório a definir
